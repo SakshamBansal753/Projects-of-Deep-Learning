@@ -8,6 +8,7 @@ This project is a deep learning-based Face Mask Detection system built using **P
 * Without Mask
 
 The system achieves approximately **86–93% test accuracy** depending on training configuration.
+with training accuracy about **93%** 
 
 ---
 
@@ -127,7 +128,7 @@ Evaluation is done using:
 
 ## 👨‍💻 Author
 
-Your Name
+Saksham Bansal
 
 ---
 
